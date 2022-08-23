@@ -120,4 +120,4 @@ language of the sphere (e.g. en, de, it)
 
 <figure><img src=".gitbook/assets/75007.png" alt=""><figcaption></figcaption></figure>
 
-{% embed url="https://youtu.be/4WaC8k3WVl8" %}
+{% embed url="<iframe width="560" height="315" src="https://www.youtube.com/embed/4WaC8k3WVl8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>" %}
