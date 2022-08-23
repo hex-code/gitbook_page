@@ -119,3 +119,5 @@ language of the sphere (e.g. en, de, it)
 {% endswagger %}
 
 <figure><img src=".gitbook/assets/75007.png" alt=""><figcaption></figcaption></figure>
+
+{% embed url="https://youtu.be/4WaC8k3WVl8" %}
