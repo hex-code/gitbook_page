@@ -117,3 +117,5 @@ language of the sphere (e.g. en, de, it)
 ```
 {% endswagger-response %}
 {% endswagger %}
+
+<figure><img src=".gitbook/assets/75007.png" alt=""><figcaption></figcaption></figure>
