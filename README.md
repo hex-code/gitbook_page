@@ -118,4 +118,6 @@ language of the sphere (e.g. en, de, it)
 {% endswagger-response %}
 {% endswagger %}
 
-<figure><img src="https://images.unsplash.com/photo-1658655012972-4d8f51c7d967?crop=entropy&#x26;cs=tinysrgb&#x26;fm=jpg&#x26;ixid=MnwxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NjEyNTc4MTI&#x26;ixlib=rb-1.2.1&#x26;q=80" alt=""><figcaption></figcaption></figure>
+Revert changes
+
+<figure><img src=".gitbook/assets/75007.png" alt=""><figcaption></figcaption></figure>
