@@ -119,5 +119,3 @@ language of the sphere (e.g. en, de, it)
 {% endswagger %}
 
 <figure><img src=".gitbook/assets/75007.png" alt=""><figcaption></figcaption></figure>
-
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
