@@ -12,7 +12,7 @@ Start app in Dev mode
 yarn start
 ```
 
-{% swagger method="get" path="" baseUrl="api/v1/buttons.json" summary="Return configured options for buttons like amazon, ebay, rakuten. custom" %}
+{% swagger method="get" path=".json" baseUrl="api/v1/buttons" summary="Return configured options for buttons like amazon, ebay, rakuten. custom" %}
 {% swagger-description %}
 
 {% endswagger-description %}
@@ -21,7 +21,7 @@ yarn start
 language of the sphere (e.g. en, de, it)
 {% endswagger-parameter %}
 
-{% swagger-response status="200: OK" description="" %}
+{% swagger-response status="200: OK" description="Client Buttons in position order" %}
 ```javascript
 {
     // Response
